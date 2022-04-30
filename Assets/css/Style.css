@@ -25,20 +25,17 @@ main {
     color: black;
 }
 
-.sections {
-    width: 100%;
+#talent {
+    margin: 0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     height: 300px;
 }
 
-img .sections {
-    width: 100px;
-}
-
-img.talent {
+#talent img {
+    width: 300px;
     float: right;
 }
-
-
 
 .final {
     background-color: rgb(184, 184, 184);
