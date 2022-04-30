@@ -83,6 +83,7 @@ button {
     border-radius: 6px;
     color: white;
     margin-top: 0px;
+    margin-left: 12px;
 }
 
 button.active {
@@ -177,6 +178,17 @@ button.active {
     width: 250px;
     height: 150px;
     margin-right: 12px;
+}
+#last-section{
+    font-size: 22px;
+}
+#last-section h2{
+        color: #EC4067;
+        font-weight: lighter;
+        font-size:xx-large;
+        margin-bottom: 2px;
+        margin-bottom: 12px;
+
 }
 
 p.final {
