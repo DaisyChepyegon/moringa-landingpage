@@ -170,7 +170,7 @@ height: 300px;
     display: block;
     margin: 0 auto;
     column-count: 4;
-    column-gap: 12px;
+    column-gap: 15px;
     padding-left: 40px;
     padding-right: 40px;
 }
@@ -179,8 +179,8 @@ height: 300px;
     display: inline-block;
     top: 0px;
     margin: 0px;
-    width: 250px;
-    height: 150px;
+    width: 240px;
+    height: 140px;
     margin-right: 12px;
 }
 #last-section{
@@ -208,12 +208,15 @@ p.final {
     border-radius: 12px;
     border-color: #EC4067;
     background-color: #EC4067;
-    width: 200px;
+    width: 150px;
+    text-align: center;
 }
 .qs{
     border: solid;
     border-radius: 12px;
     border-color: #EC4067;
     background-color: #EC4067;
-    width: 200px;
+    width: 150px;
+    text-align: center;
+
 }
