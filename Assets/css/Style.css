@@ -28,6 +28,7 @@ main {
 a {
     text-decoration: none;
     color: #EC4067;
+    margin-left: 10px;
 }
 
 ul {
@@ -42,6 +43,7 @@ li {
     display: inline-block;
 }
 
+/* buttons */
 button {
     display: inline-block;
     border: none;
@@ -53,6 +55,23 @@ button {
     color: white;
 }
 
+button.active {
+    padding: 8px 20px;
+    border: solid 1px #EC4067;
+    background-color: white;
+    color: #EC4067;
+    border-radius: 0px;
+}
+
+nav {
+    display: inline-flex;
+    float: right;
+    margin-right: 50px;
+}
+
+nav button {
+    margin-left: 50px;
+}
 
 .section {
     margin: 0px;
