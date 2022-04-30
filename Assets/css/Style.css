@@ -4,6 +4,35 @@ body {
     font-family: 'Nunito', sans-serif;
 }
 
+/*logo*/
+#school-name {
+    margin-top: 32px;
+    display: inline-block;
+    width: 300px;
+
+
+}
+
+/*logo name size */
+#school-name p {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+/*navigation bar */
+nav {
+    display: inline-flex;
+    float: right;
+    margin-right: 50px;
+    margin-top: 60px;
+    font-weight: 500;
+
+}
+
+nav button {
+    margin-left: 50px;
+}
+
 main {
     margin: 0px;
     margin-left: 60px;
@@ -25,6 +54,47 @@ main {
     color: black;
 }
 
+a {
+    text-decoration: none;
+    color: #EC4067;
+    margin-left: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    margin-top: 7px;
+}
+
+li {
+    display: inline-block;
+}
+
+/* buttons */
+button {
+    display: inline-block;
+    border: none;
+    background-color: #EC4067;
+    margin-right: 13px;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 6px;
+    color: white;
+    margin-top: 0px;
+}
+
+button.active {
+    padding: 8px 20px;
+    border: solid 1px #EC4067;
+    background-color: white;
+    color: #EC4067;
+    border-radius: 0px;
+}
+
+
+
 .section {
     margin: 0px;
     margin-top: 50px;
@@ -39,10 +109,34 @@ main {
 #talent img {
     float: right;
 }
+#orientatio{
+    margin-top: 0px;
 
+}
 #orientation img {
     float: left;
     margin-right: 30px;
+}
+/*text bg style*/
+.stories h2:nth-child(1){
+    display: inline-block;
+    background:linear-gradient(to right, rgba(228, 227, 227, 0.63) 20%, white 50%);
+    margin-right: 6px;
+    margin-bottom: 0px;
+}
+/*text bg style*/
+.teams h2:nth-child(1){
+    display: inline-block;
+    background:linear-gradient(to right, rgba(228, 227, 227, 0.63) 20%, white 50%);
+    margin-right: 6px;
+    margin-bottom: 0px;
+}
+/*text bg style*/
+.project h2:nth-child(1) {
+    display: inline-block;
+    background: linear-gradient(to right, rgba(228, 227, 227, 0.63) 20%, white 50%);
+    margin-right: 6px;
+    margin-bottom: 0px;
 }
 
 #board img {
@@ -66,7 +160,7 @@ main {
     align-items: center;
 
 }
-
+/* teams section box*/
 .teams {
     display: block;
     margin: 0 auto;
