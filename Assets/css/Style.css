@@ -109,10 +109,19 @@ button.active {
 #talent img {
     float: right;
 }
+#orientatio{
+    margin-top: 0px;
 
+}
 #orientation img {
     float: left;
     margin-right: 30px;
+}
+.stories h2:nth-child(1){
+    display: inline-block;
+    background:linear-gradient(to right, rgba(228, 227, 227, 0.63) 20%, white 50%);
+    margin-right: 6px;
+    margin-bottom: 0px;
 }
 
 #board img {
@@ -136,7 +145,7 @@ button.active {
     align-items: center;
 
 }
-
+/* teams section box*/
 .teams {
     display: block;
     margin: 0 auto;
