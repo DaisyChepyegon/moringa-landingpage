@@ -25,17 +25,27 @@ main {
     color: black;
 }
 
-#talent {
+.section {
     margin: 0px;
     margin-top: 50px;
     margin-bottom: 50px;
     height: 300px;
 }
 
-#talent img {
+.section img {
     width: 300px;
+}
+
+#talent img {
     float: right;
 }
+
+#board img {
+    float: left;
+    margin-right: 30px;
+}
+
+
 
 .final {
     background-color: rgb(184, 184, 184);
