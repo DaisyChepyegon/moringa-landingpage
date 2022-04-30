@@ -40,12 +40,20 @@ main {
     float: right;
 }
 
-#board img {
+#orientation img {
     float: left;
     margin-right: 30px;
 }
 
+#board img {
+    float: right;
+    margin-left: 30px;
+}
 
+#graduation img {
+    float: left;
+    margin-right: 30px;
+}
 
 .final {
     background-color: rgb(184, 184, 184);
