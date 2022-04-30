@@ -117,9 +117,24 @@ button.active {
     float: left;
     margin-right: 30px;
 }
+/*text bg style*/
 .stories h2:nth-child(1){
     display: inline-block;
     background:linear-gradient(to right, rgba(228, 227, 227, 0.63) 20%, white 50%);
+    margin-right: 6px;
+    margin-bottom: 0px;
+}
+/*text bg style*/
+.teams h2:nth-child(1){
+    display: inline-block;
+    background:linear-gradient(to right, rgba(228, 227, 227, 0.63) 20%, white 50%);
+    margin-right: 6px;
+    margin-bottom: 0px;
+}
+/*text bg style*/
+.project h2:nth-child(1) {
+    display: inline-block;
+    background: linear-gradient(to right, rgba(228, 227, 227, 0.63) 20%, white 50%);
     margin-right: 6px;
     margin-bottom: 0px;
 }
