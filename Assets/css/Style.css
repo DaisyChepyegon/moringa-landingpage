@@ -46,7 +46,7 @@ main {
 }
 
 .first-word {
-    color: red;
+    color: #EC4067;
 
 }
 
@@ -116,7 +116,7 @@ button.active {
 }
 #orientation img {
     float: left;
-    margin-right: 30px;
+    margin-right: 20px;
 }
 /*text bg style*/
 .stories h2:nth-child(1){
@@ -138,6 +138,10 @@ button.active {
     background: linear-gradient(to right, rgba(228, 227, 227, 0.63) 20%, white 50%);
     margin-right: 6px;
     margin-bottom: 0px;
+}
+ .project img{
+width: 500px;
+height: 300px;
 }
 
 #board img {
@@ -196,4 +200,20 @@ p.final {
     top: 50%;
 
     transform: translate(-50%, -50%);
+}
+
+.pink1{
+
+    border: solid;
+    border-radius: 12px;
+    border-color: #EC4067;
+    background-color: #EC4067;
+    width: 200px;
+}
+.qs{
+    border: solid;
+    border-radius: 12px;
+    border-color: #EC4067;
+    background-color: #EC4067;
+    width: 200px;
 }
