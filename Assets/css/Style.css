@@ -45,6 +45,7 @@ main {
     margin-right: 60px;
 }
 
+
 .first-word {
     color: #EC4067;
 
@@ -110,6 +111,8 @@ button.active {
 
 #talent img {
     float: right;
+    margin-right: 20px;
+
 }
 #orientatio{
     margin-top: 0px;
