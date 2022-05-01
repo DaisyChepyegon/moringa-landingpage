@@ -105,6 +105,7 @@ button.active {
 
 .section img {
     width: 300px;
+    
 }
 
 #talent img {
@@ -120,7 +121,7 @@ button.active {
 }
 #project img{
     float: right;
-    margin-right: 20px;
+
 }
 /*text bg style*/
 .stories h2:nth-child(1){
@@ -213,7 +214,6 @@ p.final {
     margin-right: 13px;
     padding: 10px 20px;
     text-align: center;
-    border-radius: 6px;
     color: #EC4067;
     margin-top: 0px;
     margin-left: 10px;
@@ -230,4 +230,8 @@ p.final {
             bottom: 5px;
             left: 10px;
             color: white;
+}
+.hearts{
+    height: 15px;
+    width: 15px;
 }
