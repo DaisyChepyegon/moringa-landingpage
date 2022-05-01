@@ -98,13 +98,13 @@ button.active {
 
 .section {
     margin: 0px;
-    margin-top: 50px;
+    margin-top: 70px;
     margin-bottom: 50px;
     height: 300px;
 }
 
 .section img {
-    width: 300px;
+    width: 400px;
     
 }
 
@@ -121,6 +121,7 @@ button.active {
 }
 #project img{
     float: right;
+    margin-right: 20px;
 
 }
 /*text bg style*/
@@ -187,6 +188,7 @@ button.active {
 }
 #last-section{
     font-size: 22px;
+    margin-top: 150px;
 }
 #last-section h2{
         color: #EC4067;
