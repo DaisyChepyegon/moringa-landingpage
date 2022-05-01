@@ -7,9 +7,10 @@ This is a landing page for Moringa School and it is implemented using html and c
 Daisy Chepyegon
 
 ---
-=======
+
 ## Screenshot
-![image](Assets/images/Moringa School LandingPage.png)
+
+![image](/assets/images/Moringa.png)
 
 
 ---
