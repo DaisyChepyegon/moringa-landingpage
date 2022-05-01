@@ -9,10 +9,9 @@ Daisy Chepyegon
 ---
 =======
 ## Screenshot
-![image](Assets/images/Screenshot1.png)
+![image](Assets/images/Moringa School LandingPage.png)
 
-![image](Assets/images/Screenshot2.png)
->>>>>>> 1517783bf91647f700c93477f7bf9dac9894adb5
+
 ---
 
 # Table of Content
