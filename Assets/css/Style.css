@@ -118,6 +118,10 @@ button.active {
     float: left;
     margin-right: 20px;
 }
+#project img{
+    float: right;
+    margin-right: 20px;
+}
 /*text bg style*/
 .stories h2:nth-child(1){
     display: inline-block;
@@ -139,10 +143,7 @@ button.active {
     margin-right: 6px;
     margin-bottom: 0px;
 }
- .project img{
-width: 500px;
-height: 300px;
-}
+
 
 #board img {
     float: right;
@@ -168,7 +169,7 @@ height: 300px;
 /* teams section box*/
 .teams {
     display: block;
-    margin: 0 auto;
+    margin:  0 auto;
     column-count: 4;
     column-gap: 15px;
     padding-left: 40px;
@@ -213,7 +214,20 @@ p.final {
     padding: 10px 20px;
     text-align: center;
     border-radius: 6px;
-    color: white;
+    color: #EC4067;
     margin-top: 0px;
-    margin-left: 12px;
+    margin-left: 10px;
+    background-color: white;
+    
+}
+
+.image{
+    margin: 3%;
+            position: relative;
+}
+.name{
+    position: absolute;
+            bottom: 5px;
+            left: 10px;
+            color: white;
 }
