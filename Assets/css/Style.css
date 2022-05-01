@@ -202,21 +202,18 @@ p.final {
     transform: translate(-50%, -50%);
 }
 
-.pink1{
 
-    border: solid;
-    border-radius: 12px;
-    border-color: #EC4067;
-    background-color: #EC4067;
-    width: 150px;
-    text-align: center;
-}
-.qs{
-    border: solid;
-    border-radius: 12px;
-    border-color: #EC4067;
-    background-color: #EC4067;
-    width: 150px;
-    text-align: center;
 
+
+.explore{
+    display: inline-block;
+    border: solid;
+    border-color: #EC4067;
+    margin-right: 13px;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 6px;
+    color: white;
+    margin-top: 0px;
+    margin-left: 12px;
 }
