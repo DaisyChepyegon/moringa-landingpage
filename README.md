@@ -8,9 +8,9 @@ Daisy Chepyegon
 
 ---
 ## Screenshot
-!Assets/images/Screenshot1.png
+![image](Assets/images/Screenshot1.png)
 
-!Assets/images/Screenshot2.png
+![image](Assets/images/Screenshot2.png)
 ---
 
 # Table of Content
